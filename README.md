@@ -2,7 +2,7 @@
 Clone the repository:
 
 Bash
-git clone https://github.com/ShannuF1/Finance-Dashboard-Backend.git
+git clone https://github.com/ShannuF1/Finance---Dashboard---Backend.git
 
 Navigate to the folder:
 
